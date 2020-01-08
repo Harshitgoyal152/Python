@@ -5,5 +5,7 @@ z=x
 x=y
 y=z
 
-print('x = ' + x)
-print('y = ' + y)
+print('x = ')
+print(x)
+print('y = ')
+print(y)
